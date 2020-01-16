@@ -13,4 +13,4 @@ The data used is contained within the UCI HAR Dataset.zip file.
 
 To run the code one needs to run the script run_analysis.R to produce the tidy submission dataset in the file Summarised_by_mean.txt. 
 
-The tidy submission data is described in the CodeBook.md file.
+The tidy submission data is described in the CodeBook.Rmd file.
